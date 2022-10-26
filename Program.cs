@@ -6,7 +6,7 @@
 //Description: Takes a sequence of numbers and reverses them. 
 //Declared variables, get user input and use while loop to reverse the number.  
 
-
+// Mauricio review, good job!
 
 void PlayGame()
 {
